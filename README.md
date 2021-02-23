@@ -1,0 +1,1 @@
+Stock Picker with Ruby Programmnig
